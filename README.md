@@ -125,7 +125,10 @@ UE5FirstPersonDemo/
 - C++17支持
 
 ### 编译步骤
-1. 克隆项目到本地
+1. 克隆项目到本地：
+   ```bash
+   git clone https://github.com/wjs7/UE5FirstPersonDemo.git
+   ```
 2. 使用UE5打开`.uproject`文件
 3. 在UE5编辑器中编译C++代码
 
